@@ -1,0 +1,20 @@
+F:\Elevator Project\dood\Elevator\Elevator\bin\Debug\Elevator.exe.config
+F:\Elevator Project\dood\Elevator\Elevator\bin\Debug\Elevator.exe
+F:\Elevator Project\dood\Elevator\Elevator\bin\Debug\Elevator.pdb
+F:\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.csprojAssemblyReference.cache
+F:\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.Form1.resources
+F:\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.Properties.Resources.resources
+F:\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.csproj.GenerateResource.cache
+F:\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+F:\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.exe
+F:\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.pdb
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\bin\Debug\Elevator.exe.config
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\bin\Debug\Elevator.exe
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\bin\Debug\Elevator.pdb
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.csprojAssemblyReference.cache
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.Properties.Resources.resources
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.csproj.GenerateResource.cache
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.exe
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.pdb
+F:\Aug-Sep Noncredit Classes\Elevator Project\dood\Elevator\Elevator\obj\Debug\Elevator.Elevator.resources
